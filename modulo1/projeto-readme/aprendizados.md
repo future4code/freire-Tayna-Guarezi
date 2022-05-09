@@ -1,0 +1,2 @@
+#Aprendizado da semana
+Nessa semana de onboarding da **Labenu** eu aprendi a mexer no terminal e no vs code, treinamos os comandos do terminal para resolver um crime Assassinato Na Linha de Comando, os comandos do git e como fazer e salvar um repositório.
