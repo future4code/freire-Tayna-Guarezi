@@ -67,7 +67,7 @@ imprimeInformacoesUsuario
 
 
 // EXERCÍCIO 05
-function imprimeTresCoresFavoritas() {
+/*function imprimeTresCoresFavoritas() {
   let cor1 =prompt('qual sua cor favorita?')
   let cor2 =prompt('segunda cor')
   let cor3 =prompt('terceira cor')
@@ -75,7 +75,7 @@ function imprimeTresCoresFavoritas() {
   console.log(cores)
 return imprimeTresCoresFavoritas
 }
-imprimeTresCoresFavoritas()
+imprimeTresCoresFavoritas()*/
 
 
 // EXERCÍCIO 06
@@ -96,32 +96,40 @@ console.log(calculaIngressosEspetaculo(4000,100))
 
 
 // EXERCÍCIO 08
+
 function checaStringsMesmoTamanho(string1, string2) {
-  string1.lenght
-  string2.lenght
-  return string1,string2
-  mesmoTamanho=string1===string2
-  return mesmoTamanho
+
+  let checagem1=string1.lenght==string2.lenght
+  
+return checagem1
 }
-console.log(checaStringsMesmoTamanho("ola","abcd"))
+checaStringsMesmoTamanho="ola","abc"
 
 // EXERCÍCIO 09
 function retornaPrimeiroElemento(array) {
-  // implemente sua lógica aqui
+  
+  let numero = array[0]
+  return numero
 
 }
+retornaPrimeiroElemento["caju","banana","pera"]
 
 // EXERCÍCIO 10
 function retornaUltimoElemento(array) {
-  // implemente sua lógica aqui
+  let elemento = array[0]
+  let ultimo= array[array.length-1]
+  
+
+  return ultimo
 
 }
+retornaUltimoElemento["café","chuva","cabana"]
 
 // EXERCÍCIO 11
 function trocaPrimeiroEUltimo(array) {
-  // implemente sua lógica aqui
-
+ 
 }
+array["a","b","c"]
 
 // EXERCÍCIO 12
 function checaIgualdadeDesconsiderandoCase(string1, string2) {
