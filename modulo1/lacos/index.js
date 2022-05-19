@@ -9,9 +9,7 @@
 
 //exercicios de escrita de código
 //1
-
-console.log('ola')
-
+//Não consegui fazer nenhum exercicio fiquei o dia todo tentando, estou postando para não ficar com ausencia no dia, vou tentar novamente outro dia.
 
 
 
